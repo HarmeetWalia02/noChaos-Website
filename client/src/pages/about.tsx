@@ -1,7 +1,7 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
-import Thread from "/Users/harmeetwalia/Downloads/aura-landing/client/src/components/ui/Threads";
-import Footer from "/Users/harmeetwalia/Downloads/aura-landing/client/src/components/ui/Footer";
+import Thread from "@/components/ui/Threads";
+import Footer from "@/components/ui/Footer";
 import { Link } from "wouter";
 
 function TopBar() {

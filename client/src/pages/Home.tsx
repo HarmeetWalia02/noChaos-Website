@@ -2,7 +2,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 //import { Link } from "react-router-dom"; 
 import { Link } from "wouter";
-import Footer from "/Users/harmeetwalia/Downloads/aura-landing/client/src/components/ui/Footer";
+import Footer from "@/components/ui/Footer";
 
 /* -------------------- TOP BAR -------------------- */
 
